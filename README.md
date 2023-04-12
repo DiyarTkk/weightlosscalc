@@ -12,3 +12,7 @@ I am always happy about voluntary cooperations.
 My thanks to rdbende (https://github.com/rdbende/Forest-ttk-theme) for the great Excel light/dark theme.
 
 Current time required: approx. 5 hours
+
+
+<img width="1502" alt="pic1" src="https://user-images.githubusercontent.com/57535538/231606275-bc33fa3e-c384-42a9-8e82-2940d68697d7.PNG">
+<img width="1088" alt="pic2" src="https://user-images.githubusercontent.com/57535538/231606287-feb029b9-ef10-4642-b864-6ee6fac31495.PNG">
